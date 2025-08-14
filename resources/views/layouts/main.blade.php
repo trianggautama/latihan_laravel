@@ -6,14 +6,12 @@
         <meta name="description" content="" />
         <meta name="author" content="" />
         <title>Aplikasi Aset</title>
-        <!-- Favicon-->
         <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
         <link href="{{asset('sidebar/css/styles.css')}}" rel="stylesheet" />
         <link href="{{asset('sidebar/css/customs.css')}}" rel="stylesheet" />
     </head>
     <body>
         <div class="d-flex" id="wrapper">
-            <!-- Sidebar-->
             <div class="border-end bg-white" id="sidebar-wrapper">
                 <div class="sidebar-heading border-bottom bg-light">Aplikasi Assets</div>
                 <div class="list-group list-group-flush">
