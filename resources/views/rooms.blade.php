@@ -14,7 +14,7 @@
                         <thead>
                             <tr>
                                 <td>No</td>
-                                <td>Kode</td>
+                                <td><span class="warna-hijau">Kode</span></td>
                                 <td>Nama Ruangan</td>
                                 <td>Aksi</td>
                             </tr>
